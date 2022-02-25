@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for Master DevOps Learning</h1>
+    <h1>New user register for Master DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter USer mobile</b></label>
+    <label for="mobile"><b>Enter User mobile</b></label>
     <input type="text" placeholder="Enter phone mobile number" name="mobile" id="mobile" required>
     <br>
 
@@ -17,7 +17,7 @@
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter Master Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
