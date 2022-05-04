@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Non Admin user register for DevOps Learning</h1>
+    <h1>New Intens Admin user register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Please Enter Your First Name</b></label>
+    <label for="Name"><b>Please Enter Intens Your First Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
